@@ -14,7 +14,8 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("https://raw.githubusercontent.com/urmom1050/beans/main/Muag4200_Pong-main/pong_bg.jpg");
+  background-image:
+      url("background.jpg");
   background-size: cover;
 }
 
