@@ -11,7 +11,7 @@ body {
 
 #game {
   margin: 10px;
-  border: 5px solid green;
+  border: 5px solid lime;
   left: 0;
   position: absolute;
   background-image:
@@ -20,13 +20,13 @@ body {
 }
 
 #left-paddle {
-  background-color: black;
+  background-color: lime;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: red;
+  background-color: lime;
   right: 10px;
 }
 
@@ -77,7 +77,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: black;
+  background-color: lime;
   border-radius: 10px;
   position: absolute;
   left: 50px;
