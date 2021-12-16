@@ -86,6 +86,7 @@ body {
 
 .score {
   position: absolute;
+  color: lime;
   font-family: Arial, Helvetica, sans-serif;
   top: 0;
 }
